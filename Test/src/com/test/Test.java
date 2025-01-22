@@ -40,6 +40,8 @@ public class Test {
 			System.out.println(emp.getId());
 			System.out.println(emp.getName());
 			System.out.println(emp.getSalary());
+                        System.out.println("my name is shreya");
+			
 		}*/
 	}
 }
